@@ -1,0 +1,11 @@
+.clear {
+    background: #e62e00;
+    color: white;
+    width: 16em;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    outline: 1px solid #888;
+}

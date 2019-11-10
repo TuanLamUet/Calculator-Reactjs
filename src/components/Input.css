@@ -1,0 +1,6 @@
+.box {
+    width: 16em;
+    height: 4em;
+    font-weight: 500;
+    outline: 1px solid black;
+}

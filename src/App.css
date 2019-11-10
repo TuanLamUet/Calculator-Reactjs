@@ -1,0 +1,12 @@
+.App {
+  position: absolute;
+  height: 100vh;
+  left: 45%;
+  top: 20vh;
+
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
